@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "lucide-react": "^1.47.0",
+    "zustand": "^5.0.15"
+  },
+  "devDependencies": {
+    "@tailwindcss/aspect-ratio": "^0.4.2"
+  }
+}
